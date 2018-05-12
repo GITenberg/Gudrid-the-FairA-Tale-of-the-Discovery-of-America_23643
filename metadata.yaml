@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1864
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Hewlett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23643#Gudrid-the-FairA-Tale-of-the-Discovery-of-America
 gutenberg_issued: '2007-11-27'
 gutenberg_type: Text
 identifiers:
